@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Carteira de clientes</string>
+    <string name="title_activity_act_main">Carteira de Clientes</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_act_cad_cliente">Cliente</string>
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_endereco">Endereço</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_telefone">Telefone</string>
+    <string name="title_menu_ok">Ok</string>
+    <string name="title_menu_cancelar">Cancelar</string>
+    <string name="title_aviso">Aviso</string>
+    <string name="message_capos_invalidos_brancos">Há campos inválidos ou em branco!</string>
+    <string name="lbl_ok">OK</string>
+</resources>
